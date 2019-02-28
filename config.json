@@ -6,9 +6,11 @@
   },
   "implementations": {
     "Caller": {
+      "name": "Caller",
       "solc_output": "dapp/out/Dapp.sol.json"
     },
     "Callee": {
+      "name": "Callee",
       "solc_output": "dapp/out/Dapp.sol.json"
     }
   },
